@@ -1,0 +1,35 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = thamrin office
+
+## Media
+
+### Title
+panorama_406B6408_515F_65C6_41A5_238755D7B6FC.label = staff 4
+panorama_40763DF2_5167_664A_41C0_9E310C94B5DB.label = ps1
+panorama_4EE35867_5511_B1F6_41C7_C3A5E9F3905F.label = toilet2
+panorama_5A086FC3_51B4_5DBD_41D3_F801617DCAE4.label = ps14
+panorama_5A94E6EF_5193_EF44_41D0_B177ECE5F47B.label = ps18
+panorama_5AE84A89_518D_E7CD_417A_612BA71DEA43.label = ps9
+panorama_5AF2219F_5194_25C5_41BD_0BCC1DE032A4.label = meeting room door
+panorama_5B2A252D_5193_E2C5_41B7_EE497669F513.label = ps19
+panorama_5B5A7025_5174_22C5_41B6_6626116D63B5.label = ps7
+panorama_5B621B34_5121_63CD_4197_75DB9A2670FA.label = front desk
+panorama_5B993F31_5194_3EDC_41D0_04AA4B84714F.label = ps11
+panorama_5BB81A7C_5121_623E_41BB_C9F31A6E0F59.label = Isle
+panorama_5BC3819E_51B4_65C4_41C8_1F2C0C15CA5E.label = ps15
+panorama_5F68A66A_515F_E245_41B1_54EAAFD9019B.label = staff 1
+video_4AA13904_5510_B32B_41B6_CCCB3701AF5B.label = WhatsApp Video 2021-04-20 at 12.49.00 PM (1)
+video_5BC9F7B6_55B2_3528_41D1_8BA623537104.label = WhatsApp Video 2021-04-20 at 2.49.03 PM
+
+## Action
+
+### URL
+LinkBehaviour_45B95CCE_55CE_7B79_41A8_8381AC80EC28.source = https://geoprimaenergi.com/
+LinkBehaviour_45DE5480_55B2_0BE9_41AC_903E21442D82.source = https://geoprimaenergi.com/
+LinkBehaviour_7549A433_5511_516D_41D0_145B074C8E1F.source = https://geoprimaenergi.com/
